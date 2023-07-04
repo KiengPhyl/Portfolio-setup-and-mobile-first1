@@ -1,14 +1,15 @@
 .menu {
+  
   display: flex;
-    justify-content: right;
-    padding: 20px;
+  justify-content: right;
+  padding: 20px;
   }
   
-  .page {
-    display: flex;
-    flex-direction: column;
-    margin: unset;
-    overflow: auto;
+.page {
+  display: flex;
+  flex-direction: column;
+  margin: unset;
+  overflow: auto;
   }
   
   .greetings {
