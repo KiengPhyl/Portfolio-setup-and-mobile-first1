@@ -31,7 +31,7 @@
   text-align: center;
   color: #172b4d;
 }
-  
+
 .socials {
   display: flex;
   gap: 1rem;
@@ -40,14 +40,14 @@
   margin-top: 14px;
   padding-bottom: 2px;
 }
-  
+ 
 .button {
   color: #172b4d;
   justify-content: center;
   display: flex;
   padding-bottom: 10px;
 }
-  
+
 .headline {
   display: flex;
   justify-content: center;
@@ -59,7 +59,7 @@
   background-size: cover;
   overflow-y: auto;
 }
-  
+
 .background-image {
   width: 100%;
   position: absolute;
