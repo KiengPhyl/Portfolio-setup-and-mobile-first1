@@ -12,12 +12,16 @@
 }
 
 .greetings {
+  line-height: 52px;
+  font: inter;
+  font-weight: 700px;
   justify-content: center;
   font-size: 40px;
   line-height: 52px;
   margin-top: unset;
   margin-bottom: unset;
   color: #172b4d;
+  /* line-height: 28px; */
 }
 
 .job {
@@ -30,6 +34,7 @@
   line-height: 28px;
   text-align: center;
   color: #172b4d;
+  font: inter;
 }
 
 .socials {
@@ -48,15 +53,19 @@
   padding-bottom: 10px;
 }
 
+.section-container {
+  background-image: url("images/illustrator-mobile.svg");
+     background-size: 100% 100%;
+     background-repeat: no-repeat;
+}
+
 .headline {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 20px;
+  padding: 55px;
   text-align: center;
-  background: url("images/illustrator-mobile.svg") no-repeat center;
-  background-size: cover;
   overflow-y: auto;
 }
 
