@@ -19,9 +19,11 @@
   margin-top: unset;
   margin-bottom: unset;
   color: #172b4d;
+  font-family: 'Inter', sans-serif;
 }
 
 .job {
+  font-family: 'Inter', sans-serif;
   color: #36b37e;
 }
 
@@ -31,6 +33,7 @@
   line-height: 28px;
   text-align: center;
   color: #172b4d;
+  font-family: 'Inter', sans-serif;
 }
 
 .socials {
