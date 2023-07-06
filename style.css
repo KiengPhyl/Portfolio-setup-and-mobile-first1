@@ -373,6 +373,7 @@ ul {
   height: 48px;
   font-size: medium;
   transition-property: all;
+  font-family: 'Inter', sans-serif;
 }
 
 .desktop-plane {
