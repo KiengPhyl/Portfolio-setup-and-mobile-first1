@@ -134,7 +134,7 @@ Kieng Philemon
 ## 👥 Authors <a name="authors"></a>
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/phylah-kieng-949520120/)
-- GitHub: [@githubhandle](https://github.com/KiengPhyl/Portfolio-setup-and-mobile-first1.git)
+- GitHub: [@githubhandle](https://https://github.com/KiengPhyl/Portfolio-setup-and-mobile-first1.git)
 - Twitter:[https://twitter.com/kieng_philemon]
 
 
